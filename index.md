@@ -12,18 +12,6 @@ knit        : slidify::knit2slides
 ---
 
 
-```r
-# install.packages( "devtools" )
-# require(devtools)
-# install_github( "slidify", "ramnathv" )
-# install_github( "slidifyLibraries", "ramnathv" )
-# require(slidify)
-# require(slidifyLibraries)
-# 
-# setwd("/Volumes/Old_HD/DocStore/=WORK=/=Courses/Software_Carpentry/")
-# 
-# author( "slidify_example" )
-```
 
 
 ## Read-And-Delete
