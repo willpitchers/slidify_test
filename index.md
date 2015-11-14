@@ -49,5 +49,17 @@ knit        : slidify::knit2slides
 3. _correct_
 
 
+--- Python_too
+
+
+```python
+
+print "this is in python even!?"
+
+```
+
+```
+## this is in python even!?
+```
 
 

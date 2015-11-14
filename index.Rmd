@@ -52,5 +52,12 @@ knit        : slidify::knit2slides
 3. _correct_
 
 
+--- Python_too
+
+```{r, engine='python'}
+
+print "this is in python even!?"
+
+```
 
 
