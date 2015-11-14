@@ -60,4 +60,13 @@ print "this is in python even!?"
 
 ```
 
+--- even the shell
+
+```{r, engine='bash'}
+
+pwd
+
+echo shell!
+
+```
 

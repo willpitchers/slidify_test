@@ -62,4 +62,19 @@ print "this is in python even!?"
 ## this is in python even!?
 ```
 
+--- even the shell
+
+
+```bash
+
+pwd
+
+echo shell!
+
+```
+
+```
+## /Volumes/Old_HD/DocStore/=WORK=/=Courses/Software_Carpentry/slidify_example
+## shell!
+```
 
