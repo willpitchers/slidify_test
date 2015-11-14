@@ -33,8 +33,8 @@ knit        : slidify::knit2slides
 --- &checkbox
 
 1. wrong
-2. taco
-3. _correct_
+2. _taco_
+3. terrible
 
 
 --- Python_too
